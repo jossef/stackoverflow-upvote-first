@@ -1,6 +1,13 @@
-# stackoverflow-sort-my-upvote 
+![banner](https://cloud.githubusercontent.com/assets/1287098/17832353/c4b289b0-6709-11e6-9116-4fd3ec25728c.png)
+
+
+# Upvote First for StackOverflow 
 Chrome extension that sorts StackOverflow answers by your upvotes.  
  
+ 
+
+[<img src="https://cloud.githubusercontent.com/assets/1287098/15749298/88a1155c-28ea-11e6-9ddc-3103e7799781.png" width="300px">](https://chrome.google.com/webstore/detail/upvote-first-for-stackove/jafbgebfjkfejghbdeohaadmfghkmjlo)
+
  
 ## Why i did this? 
 I find myself **re-visit StackOverflow questions** I've already read. 
@@ -20,3 +27,10 @@ What bothers me in this process is the fact that answers **aren't always at the 
 I [suggested this feature](http://meta.stackexchange.com/q/278810/295552) on Meta StackExchange. **However**, upon this day i still waited and it seems this might not got the attention of their Product Manager. 
  
 Since i see StackOverflow as an important tool in my daily routine, i implemented this chrome extension as a weekend project mainly to help myself and other developers be more productive :+1:. 
+
+
+ 
+### Demo 
+
+[![video tutorial](https://img.youtube.com/vi/CHF-wiVDUSM/0.jpg)](https://www.youtube.com/watch?v=CHF-wiVDUSM)
+- click to watch the [tutorial on youtube](https://www.youtube.com/watch?v=CHF-wiVDUSM)
