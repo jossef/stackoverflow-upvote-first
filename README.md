@@ -27,3 +27,10 @@ What bothers me in this process is the fact that answers **aren't always at the 
 I [suggested this feature](http://meta.stackexchange.com/q/278810/295552) on Meta StackExchange. **However**, upon this day i still waited and it seems this might not got the attention of their Product Manager. 
  
 Since i see StackOverflow as an important tool in my daily routine, i implemented this chrome extension as a weekend project mainly to help myself and other developers be more productive :+1:. 
+
+
+ 
+### Demo 
+
+[![video tutorial](https://img.youtube.com/vi/CHF-wiVDUSM/0.jpg)](https://www.youtube.com/watch?v=CHF-wiVDUSM)
+- click to watch the [tutorial on youtube](https://www.youtube.com/watch?v=CHF-wiVDUSM)
