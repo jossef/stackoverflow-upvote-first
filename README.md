@@ -1,4 +1,7 @@
-# stackoverflow-sort-my-upvote 
+![banner](https://cloud.githubusercontent.com/assets/1287098/17832332/dfbfe17c-6708-11e6-8f20-f0debbb8cf71.png)
+
+
+# Upvote First for StackOverflow 
 Chrome extension that sorts StackOverflow answers by your upvotes.  
  
  
