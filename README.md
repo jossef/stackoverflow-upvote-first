@@ -1,9 +1,13 @@
-![banner](https://cloud.githubusercontent.com/assets/1287098/17832332/dfbfe17c-6708-11e6-8f20-f0debbb8cf71.png)
+![banner](https://cloud.githubusercontent.com/assets/1287098/17832353/c4b289b0-6709-11e6-9116-4fd3ec25728c.png)
 
 
 # Upvote First for StackOverflow 
 Chrome extension that sorts StackOverflow answers by your upvotes.  
  
+ 
+
+[<img src="https://cloud.githubusercontent.com/assets/1287098/15749298/88a1155c-28ea-11e6-9ddc-3103e7799781.png" width="300px">](https://chrome.google.com/webstore/detail/upvote-first-for-stackove/jafbgebfjkfejghbdeohaadmfghkmjlo)
+
  
 ## Why i did this? 
 I find myself **re-visit StackOverflow questions** I've already read. 
