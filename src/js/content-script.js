@@ -119,7 +119,7 @@ var isDisabled = !options.enableSortByMyUpvotes &&
     var downVoted = [];
     var all = jQuery('.answer').toArray();
 
-    var loggedUserProfileLink = jQuery('.profile-me').attr('href');
+    var loggedUserProfileLink = jQuery('.my-profile,.profile-me').slice(0,1).attr('href');
 
     all.forEach(function(answer, position) {
         answer = jQuery(answer);
