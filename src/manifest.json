@@ -44,5 +44,5 @@
     "http://*.askubuntu.com/*"
   ],
   "offline_enabled": true,
-  "version": "1.0.1"
+  "version": "1.0.3"
 }
