@@ -117,7 +117,7 @@ jQuery(function () {
         var downVoted = [];
         var all = jQuery('.answer:not(.deleted-answer)').toArray();
 
-        var loggedUserProfileLink = jQuery('.my-profile,.profile-me').slice(0, 1).attr('href');
+        var loggedUserProfileLink = jQuery('.my-profile,.profile-me,a.s-user-card').slice(0, 1).attr('href');
 
         all.forEach(function (answer, position) {
             answer = jQuery(answer);

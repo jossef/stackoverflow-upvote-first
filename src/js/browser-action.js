@@ -36,10 +36,10 @@ $(function () {
     });
 
     $('.brand').click(function () {
-        window.open('https://github.com/lets-hack-stuff', '_blank').focus();
+        window.open('https://github.com/jossef', '_blank').focus();
     });
 
     $('.contribute').click(function () {
-        window.open('https://github.com/lets-hack-stuff/stackoverflow-upvote-first', '_blank').focus();
+        window.open('https://github.com/jossef/stackoverflow-upvote-first', '_blank').focus();
     });
 });
